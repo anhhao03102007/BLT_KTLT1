@@ -1,0 +1,436 @@
+happy | /ˈhæpi/ | adj | Vui vẻ, hạnh phúc | A1 | Emotions & Personality
+sad | /sæd/ | adj | Buồn bã | A1 | Emotions & Personality
+angry | /ˈæŋɡri/ | adj | Tức giận | A1 | Emotions & Personality
+scared | /skeəd/ | adj | Sợ hãi | A2 | Emotions & Personality
+afraid | /əˈfreɪd/ | adj | Lo sợ, e sợ | A1 | Emotions & Personality
+excited | /ɪkˈsaɪtɪd/ | adj | Hào hứng, phấn khích | A1 | Emotions & Personality
+bored | /bɔːd/ | adj | Chán nản, buồn chán | A1 | Emotions & Personality
+tired | /ˈtaɪəd/ | adj | Mệt mỏi | A1 | Emotions & Personality
+surprised | /səˈpraɪzd/ | adj | Ngạc nhiên | A2 | Emotions & Personality
+nervous | /ˈnɜːvəs/ | adj | Lo lắng, hồi hộp | A2 | Emotions & Personality
+worried | /ˈwʌrid/ | adj | Lo lắng, bồn chồn | A2 | Emotions & Personality
+proud | /praʊd/ | adj | Tự hào | A2 | Emotions & Personality
+hungry | /ˈhʌŋɡri/ | adj | Đói bụng | A1 | Emotions & Personality
+thirsty | /ˈθɜːsti/ | adj | Khát nước | A1 | Emotions & Personality
+hot | /hɒt/ | adj | Nóng nực | A1 | Emotions & Personality
+cold | /kəʊld/ | adj | Lạnh giá | A1 | Emotions & Personality
+calm | /kɑːm/ | adj | Bình tĩnh, điềm tĩnh | A2 | Emotions & Personality
+lonely | /ˈləʊnli/ | adj | Cô đơn | A2 | Emotions & Personality
+relaxed | /rɪˈlækst/ | adj | Thư giãn, thoải mái | A2 | Emotions & Personality
+in love | /ɪn lʌv/ | phrase | Đang yêu, si tình | A2 | Emotions & Personality
+kind | /kaɪnd/ | adj | Tốt bụng, tử tế | A1 | Emotions & Personality
+nice | /naɪs/ | adj | Tốt, đáng yêu, thân thiện | A1 | Emotions & Personality
+friendly | /ˈfrendli/ | adj | Thân thiện | A1 | Emotions & Personality
+hard-working | /ˌhɑːd ˈwɜːkɪŋ/ | adj | Chăm chỉ | A2 | Emotions & Personality
+polite | /pəˈlaɪt/ | adj | Lịch sự, lễ phép | A2 | Emotions & Personality
+honest | /ˈɒnɪst/ | adj | Thật thà, trung thực | A2 | Emotions & Personality
+clever | /ˈklevər/ | adj | Thông minh, lanh lợi | A2 | Emotions & Personality
+smart | /smɑːt/ | adj | Thông minh | A2 | Emotions & Personality
+intelligent | /ɪnˈtelɪdʒənt/ | adj | Thông minh (trí tuệ) | A2 | Emotions & Personality
+funny | /ˈfʌni/ | adj | Vui tính, khôi hài | A1 | Emotions & Personality
+helpful | /ˈhelpfl/ | adj | Hay giúp đỡ người khác | A2 | Emotions & Personality
+careful | /ˈkeəfl/ | adj | Cẩn thận | A2 | Emotions & Personality
+generous | /ˈdʒenərəs/ | adj | Rộng lượng, hào phóng | A2 | Emotions & Personality
+patient | /ˈpeɪʃnt/ | adj | Kiên nhẫn | A2 | Emotions & Personality
+quiet | /ˈkwaɪət/ | adj | Trầm tính, ít nói | A2 | Emotions & Personality
+active | /ˈæktɪv/ | adj | Năng động, hoạt bát | A2 | Emotions & Personality
+brave | /breɪv/ | adj | Dũng cảm | A2 | Emotions & Personality
+lazy | /ˈleɪzi/ | adj | Lười biếng | A1 | Emotions & Personality
+unfriendly | /ʌnˈfrendli/ | adj | Khó gần, không thân thiện | A2 | Emotions & Personality
+rude | /ruːd/ | adj | Thô lỗ, bất lịch sự | A2 | Emotions & Personality
+dishonest | /dɪsˈɒnɪst/ | adj | Không trung thực | A2 | Emotions & Personality
+careless | /ˈkeələs/ | adj | Cẩu thả, bất cẩn | A2 | Emotions & Personality
+selfish | /ˈselfɪʃ/ | adj | Ích kỷ | A2 | Emotions & Personality
+impatient | /ɪmˈpeɪʃnt/ | adj | Nóng nảy, mất kiên nhẫn | A2 | Emotions & Personality
+shy | /ʃaɪ/ | adj | Nhút nhát, bẽn lẽn | A2 | Emotions & Personality
+stupid | /ˈstjuːpɪd/ | adj | Ngốc nghếch | A2 | Emotions & Personality
+silly | /ˈsɪli/ | adj | Ngớ ngẩn, ngốc nghếch (vui) | A1 | Emotions & Personality
+boring | /ˈbɔːrɪŋ/ | adj | Nhạt nhẽo, tẻ nhạt | A1 | Emotions & Personality
+serious | /ˈsɪəriəs/ | adj | Nghiêm túc, nghiêm nghị | A2 | Emotions & Personality
+greedy | /ˈɡriːdi/ | adj | Tham lam | A2 | Emotions & Personality
+technology | /tekˈnɒlədʒi/ | n | Công nghệ | A2 | Technology & Media
+machine | /məˈʃiːn/ | n | Máy móc | A1 | Technology & Media
+device | /dɪˈvaɪs/ | n | Thiết bị | A2 | Technology & Media
+digital | /ˈdɪdʒɪtl/ | adj | Kỹ thuật số | A2 | Technology & Media
+system | /ˈsɪstəm/ | n | Hệ thống | A2 | Technology & Media
+science | /ˈsaɪəns/ | n | Khoa học | A1 | Technology & Media
+computer | /kəmˈpjuːtər/ | n | Máy tính | A1 | Technology & Media
+laptop | /ˈlæptɒp/ | n | Máy tính xách tay | A1 | Technology & Media
+screen | /skriːn/ | n | Màn hình | A2 | Technology & Media
+keyboard | /ˈkiːbɔːd/ | n | Bàn phím | A2 | Technology & Media
+mouse | /maʊs/ | n | Chuột máy tính | A1 | Technology & Media
+camera | /ˈkæmrə/ | n | Máy ảnh / Máy quay phim | A1 | Technology & Media
+printer | /ˈprɪntər/ | n | Máy in | A2 | Technology & Media
+file | /faɪl/ | n | Tệp tin, tập tin | A2 | Technology & Media
+folder | /ˈfəʊldər/ | n | Thư mục | A2 | Technology & Media
+data | /ˈdeɪtə/ | n | Dữ liệu | A2 | Technology & Media
+phone | /fəʊn/ | n | Điện thoại | A1 | Technology & Media
+smartphone | /ˈsmɑːtfəʊn/ | n | Điện thoại thông minh | A2 | Technology & Media
+mobile phone | /ˌməʊbaɪl ˈfəʊn/ | n | Điện thoại di động | A1 | Technology & Media
+call | /kɔːl/ | v/n | Gọi điện / Cuộc gọi | A1 | Technology & Media
+message | /ˈmesɪdʒ/ | n | Tin nhắn | A2 | Technology & Media
+text | /tekst/ | v | Nhắn tin văn bản | A2 | Technology & Media
+ring | /rɪŋ/ | v/n | Reo chuông / Tiếng chuông | A1 | Technology & Media
+app | /æp/ | n | Ứng dụng | A2 | Technology & Media
+battery | /ˈbætəri/ | n | Pin | A2 | Technology & Media
+internet | /ˈɪntənet/ | n | Mạng Internet | A1 | Technology & Media
+online | /ˌɒnˈlaɪn/ | adj/adv | Trực tuyến | A2 | Technology & Media
+offline | /ˌɒfˈlaɪn/ | adj/adv | Ngoại tuyến, ngắt mạng | A2 | Technology & Media
+website | /ˈwebsaɪt/ | n | Trang web | A1 | Technology & Media
+web page | /ˈweb peɪdʒ/ | n | Trang mạng | A2 | Technology & Media
+email | /ˈiːmeɪl/ | n | Thư điện tử | A1 | Technology & Media
+link | /lɪŋk/ | n | Đường liên kết | A2 | Technology & Media
+search | /sɜːtʃ/ | v/n | Tìm kiếm | A2 | Technology & Media
+password | /ˈpɑːswɜːd/ | n | Mật khẩu | A2 | Technology & Media
+click | /klɪk/ | v | Nhấp chuột, bấm vào | A1 | Technology & Media
+social media | /ˌsəʊʃl ˈmiːdiə/ | n | Mạng xã hội | A2 | Technology & Media
+network | /ˈnetwɜːk/ | n | Mạng lưới, mạng kết nối | A2 | Technology & Media
+media | /ˈmiːdiə/ | n | Truyền thông, phương tiện | A2 | Technology & Media
+user | /ˈjuːzər/ | n | Người dùng | A2 | Technology & Media
+profile | /ˈprəʊfaɪl/ | n | Hồ sơ cá nhân | A2 | Technology & Media
+share | /ʃeər/ | v | Chia sẻ | A1 | Technology & Media
+video | /ˈvɪdiəʊ/ | n | Đoạn phim ngắn, video | A1 | Technology & Media
+photo | /ˈfəʊtəʊ/ | n | Hình ảnh, bức ảnh | A1 | Technology & Media
+information | /ˌɪnfəˈmeɪʃn/ | n | Thông tin | A2 | Technology & Media
+news | /njuːz/ | n | Tin tức | A1 | Technology & Media
+post | /pəʊst/ | v/n | Đăng tải / Bài đăng | A2 | Technology & Media
+download | /ˌdaʊnˈləʊd/ | v/n | Tải xuống | A2 | Technology & Media
+upload | /ˌʌpˈləʊd/ | v/n | Tải lên | A2 | Technology & Media
+send | /send/ | v | Gửi đi | A1 | Technology & Media
+receive | /rɪˈsiːv/ | v | Nhận được | A2 | Technology & Media
+use | /juːz/ | v | Sử dụng | A1 | Technology & Media
+work | /wɜːk/ | v/n | Làm việc / Công việc | A1 | Work & Workplace
+job | /dʒɒb/ | n | Nghề nghiệp, việc làm | A1 | Work & Workplace
+career | /kəˈrɪər/ | n | Sự nghiệp | A2 | Work & Workplace
+company | /ˈkʌmpəni/ | n | Công ty | A2 | Work & Workplace
+business | /ˈbɪznəs/ | n | Kinh doanh, doanh nghiệp | A2 | Work & Workplace
+earn | /ɜːn/ | v | Kiếm (tiền, thu nhập) | A2 | Work & Workplace
+salary | /ˈsæləri/ | n | Lương bổng | A2 | Work & Workplace
+full-time | /ˌfʊl ˈtaɪm/ | adj | Toàn thời gian | A2 | Work & Workplace
+part-time | /ˌpɑːt ˈtaɪm/ | adj | Bán thời gian | A2 | Work & Workplace
+boss | /bɒs/ | n | Sếp, ông chủ | A2 | Work & Workplace
+manager | /ˈmænɪdʒər/ | n | Quản lý | A2 | Work & Workplace
+colleague | /ˈkɒliːɡ/ | n | Đồng nghiệp | A2 | Work & Workplace
+employee | /ɪmˈplɔɪiː/ | n | Nhân viên, người lao động | A2 | Work & Workplace
+worker | /ˈwɜːkər/ | n | Công nhân, người làm việc | A1 | Work & Workplace
+office | /ˈɒfɪs/ | n | Văn phòng | A1 | Work & Workplace
+desk | /desk/ | n | Bàn làm việc | A1 | Work & Workplace
+document | /ˈdɒkjumənt/ | n | Tài liệu, văn kiện | A2 | Work & Workplace
+meeting | /ˈmiːtɪŋ/ | n | Cuộc họp | A2 | Work & Workplace
+project | /ˈprɒdʒekt/ | n | Dự án | A2 | Work & Workplace
+report | /rɪˈpɔːt/ | n | Báo cáo | A2 | Work & Workplace
+help | /help/ | v/n | Giúp đỡ, hỗ trợ | A1 | Work & Workplace
+serve | /sɜːv/ | v | Phục vụ (khách hàng) | A2 | Work & Workplace
+build | /bɪld/ | v | Xây dựng | A1 | Work & Workplace
+design | /dɪˈzaɪn/ | v/n | Thiết kế | A2 | Work & Workplace
+fix / repair | /fɪks / rɪˈpeər/ | v | Sửa chữa | A2 | Work & Workplace
+clean | /kliːn/ | v/adj | Lau dọn, làm sạch | A1 | Work & Workplace
+sell | /sel/ | v | Bán hàng | A1 | Work & Workplace
+type | /taɪp/ | v | Đánh máy, gõ văn bản | A2 | Work & Workplace
+teacher | /ˈtiːtʃər/ | n | Giáo viên | A1 | Work & Workplace
+doctor | /ˈdɒktər/ | n | Bác sĩ | A1 | Work & Workplace
+nurse | /nɜːs/ | n | Y tá | A1 | Work & Workplace
+dentist | /ˈdentɪst/ | n | Nha sĩ | A2 | Work & Workplace
+engineer | /ˌendʒɪˈnɪər/ | n | Kỹ sư | A2 | Work & Workplace
+artist | /ˈɑːtɪst/ | n | Họa sĩ, nghệ sĩ | A1 | Work & Workplace
+driver | /ˈdraɪvər/ | n | Tài xế, người lái xe | A1 | Work & Workplace
+chef | /ʃef/ | n | Đầu bếp | A2 | Work & Workplace
+waiter | /ˈweɪtər/ | n | Bồi bàn (nam) | A2 | Work & Workplace
+waitress | /ˈweɪtrəs/ | n | Bồi bàn (nữ) | A2 | Work & Workplace
+police officer | /pəˈliːs ˌɒfɪsər/ | n | Cảnh sát | A2 | Work & Workplace
+shop assistant | /ˈʃɒp əˌsɪstənt/ | n | Nhân viên bán hàng | A2 | Work & Workplace
+secretary | /ˈsekrətəri/ | n | Thư ký | A2 | Work & Workplace
+cleaner | /ˈkliːnər/ | n | Nhân viên vệ sinh | A2 | Work & Workplace
+farmer | /ˈfɑːmər/ | n | Nông dân | A1 | Work & Workplace
+transport | /ˈtrænspɔːt/ | n | Giao thông, vận tải | A2 | Travel & Transport
+car | /kɑːr/ | n | Xe ô tô | A1 | Travel & Transport
+bus | /bʌs/ | n | Xe buýt | A1 | Travel & Transport
+train | /treɪn/ | n | Tàu hỏa | A1 | Travel & Transport
+plane | /pleɪn/ | n | Máy bay | A1 | Travel & Transport
+bicycle | /ˈbaɪsɪkl/ | n | Xe đạp | A1 | Travel & Transport
+bike | /baɪk/ | n | Xe đạp | A1 | Travel & Transport
+motorbike | /ˈməʊtəbaɪk/ | n | Xe máy | A1 | Travel & Transport
+taxi | /ˈtæksi/ | n | Xe tắc-xi | A1 | Travel & Transport
+boat | /bəʊt/ | n | Thuyền, tàu nhỏ | A1 | Travel & Transport
+ship | /ʃɪp/ | n | Tàu thủy lớn | A1 | Travel & Transport
+drive | /draɪv/ | v | Lái xe (ô tô...) | A1 | Travel & Transport
+ride | /raɪd/ | v | Lái xe (xe đạp, xe máy...) | A1 | Travel & Transport
+fly | /flaɪ/ | v | Bay | A1 | Travel & Transport
+travel | /ˈtrævl/ | v/n | Đi du lịch | A1 | Travel & Transport
+trip | /trɪp/ | n | Chuyến đi, chuyến du lịch | A1 | Travel & Transport
+journey | /ˈdʒɜːni/ | n | Hành trình, chuyến đi dài | A2 | Travel & Transport
+tourist | /ˈtʊərɪst/ | n | Khách du lịch | A2 | Travel & Transport
+ticket | /ˈtɪkɪt/ | n | Vé (xe, tàu, máy bay...) | A1 | Travel & Transport
+passport | /ˈpɑːspɔːt/ | n | Hộ chiếu | A2 | Travel & Transport
+luggage | /ˈlʌɡɪdʒ/ | n | Hành lý | A2 | Travel & Transport
+suitcase | /ˈsuːtkeɪs/ | n | Va-li | A2 | Travel & Transport
+pack | /pæk/ | v | Đóng gói (hành lý) | A2 | Travel & Transport
+map | /mæp/ | n | Bản đồ | A1 | Travel & Transport
+guidebook | /ˈɡaɪdbʊk/ | n | Sách hướng dẫn du lịch | A2 | Travel & Transport
+airport | /ˈeəpɔːt/ | n | Sân bay | A2 | Travel & Transport
+flight | /flaɪt/ | n | Chuyến bay | A2 | Travel & Transport
+boarding pass | /ˈbɔːdɪŋ pɑːs/ | n | Thẻ lên máy bay | A2 | Travel & Transport
+gate | /ɡeɪt/ | n | Cổng (lên máy bay) | A2 | Travel & Transport
+check-in | /ˈtʃek ɪn/ | v/n | Quầy làm thủ tục / Nhận phòng | A2 | Travel & Transport
+delay | /dɪˈleɪ/ | n/v | Sự trì hoãn, hoãn chuyến | A2 | Travel & Transport
+land | /lænd/ | v | Hạ cánh | A2 | Travel & Transport
+take off | /teɪk ɒf/ | v | Cất cánh | A2 | Travel & Transport
+hotel | /həʊˈtel/ | n | Khách sạn | A2 | Travel & Transport
+stay | /steɪ/ | v | Ở lại, lưu trú | A1 | Travel & Transport
+book | /bʊk/ | v | Đặt trước (phòng, vé) | A2 | Travel & Transport
+reservation | /ˌrezəˈveɪʃn/ | n | Sự đặt chỗ trước | A2 | Travel & Transport
+room | /ruːm/ | n | Phòng | A1 | Travel & Transport
+single room | /ˈsɪŋɡl ruːm/ | n | Phòng đơn (cho 1 người) | A2 | Travel & Transport
+double room | /ˈdʌbl ruːm/ | n | Phòng đôi (cho 2 người) | A2 | Travel & Transport
+key | /kiː/ | n | Chìa khóa | A1 | Travel & Transport
+reception | /rɪˈsepʃn/ | n | Quầy lễ tân | A2 | Travel & Transport
+guest | /ɡest/ | n | Khách (đến lưu trú) | A2 | Travel & Transport
+direction | /dəˈrekʃn/ | n | Phương hướng, đường đi | A2 | Travel & Transport
+lost | /lɒst/ | adj | Bị lạc đường | A2 | Travel & Transport
+straight ahead | /streɪt əˈhed/ | phrase | Thẳng phía trước | A2 | Travel & Transport
+turn left | /tɜːn left/ | phrase | Rẽ trái | A1 | Travel & Transport
+turn right | /tɜːn raɪt/ | phrase | Rẽ phải | A1 | Travel & Transport
+stop | /stɒp/ | v/n | Dừng lại / Điểm dừng xe | A1 | Travel & Transport
+station | /ˈsteɪʃn/ | n | Nhà ga, bến xe | A2 | Travel & Transport
+school | /skuːl/ | n | Trường học | A1 | Education & School
+class | /klɑːs/ | n | Lớp học | A1 | Education & School
+classroom | /ˈklɑːsruːm/ | n | Phòng học | A1 | Education & School
+university | /ˌjuːnɪˈvɜːsəti/ | n | Trường đại học | A2 | Education & School
+college | /ˈkɒlɪdʒ/ | n | Trường cao đẳng / đại học | A2 | Education & School
+library | /ˈlaɪbrəri/ | n | Thư viện | A2 | Education & School
+laboratory | /ləˈbɒrətri/ | n | Phòng thí nghiệm | A2 | Education & School
+lab | /læb/ | n | Phòng thí nghiệm | A2 | Education & School
+playground | /ˈpleɪɡraʊnd/ | n | Sân chơi, sân trường | A2 | Education & School
+student | /ˈstjuːdnt/ | n | Học sinh, sinh viên | A1 | Education & School
+pupil | /ˈpjuːpl/ | n | Học sinh tiểu học | A2 | Education & School
+classmate | /ˈklɑːsmeɪt/ | n | Bạn cùng lớp | A2 | Education & School
+professor | /prəˈfesər/ | n | Giáo sư | A2 | Education & School
+pen | /pen/ | n | Bút mực | A1 | Education & School
+pencil | /ˈpensl/ | n | Bút chì | A1 | Education & School
+pencil case | /ˈpensl keɪs/ | n | Hộp bút | A2 | Education & School
+book | /bʊk/ | n | Sách | A1 | Education & School
+textbook | /ˈtekstbʊk/ | n | Sách giáo khoa | A2 | Education & School
+notebook | /ˈnəʊtbʊk/ | n | Vở, sổ ghi chép | A1 | Education & School
+ruler | /ˈruːlər/ | n | Thước kẻ | A1 | Education & School
+eraser | /ɪˈreɪsər/ | n | Cục tẩy, cục gôm | A1 | Education & School
+rubber | /ˈrʌbər/ | n | Cục tẩy, cục gôm | A1 | Education & School
+board | /bɔːd/ | n | Bảng viết | A1 | Education & School
+backpack | /ˈbækpæk/ | n | Ba-lô, cặp sách | A1 | Education & School
+bag | /bæɡ/ | n | Ba-lô, cặp sách | A1 | Education & School
+dictionary | /ˈdɪkʃənri/ | n | Từ điển | A2 | Education & School
+subject | /ˈsʌbdʒɪkt/ | n | Môn học | A1 | Education & School
+math | /mæθ/ | n | Môn Toán | A1 | Education & School
+history | /ˈhɪstri/ | n | Môn Lịch sử | A2 | Education & School
+geography | /dʒiˈɒɡrəfi/ | n | Môn Địa lý | A2 | Education & School
+art | /ɑːt/ | n | Môn Mỹ thuật | A1 | Education & School
+music | /ˈmjuːzɪk/ | n | Môn Âm nhạc | A1 | Education & School
+biology | /baɪˈɒlədʒi/ | n | Môn Sinh học | A2 | Education & School
+chemistry | /ˈkemɪstri/ | n | Môn Hóa học | A2 | Education & School
+physics | /ˈfɪzɪks/ | n | Môn Vật lý | A2 | Education & School
+p.e. | /ˌpiː ˈiː/ | n | Môn Thể dục | A2 | Education & School
+lesson | /ˈlesn/ | n | Bài học | A1 | Education & School
+course | /kɔːs/ | n | Khóa học | A2 | Education & School
+homework | /ˈhəʊmwɜːk/ | n | Bài tập về nhà | A1 | Education & School
+exam | /ɪɡˈzæm/ | n | Kỳ thi / Bài kiểm tra | A2 | Education & School
+pass | /pɑːs/ | v | Thi đỗ, vượt qua | A2 | Education & School
+fail | /feɪl/ | v | Thi trượt, rớt | A2 | Education & School
+study | /ˈstʌdi/ | v | Học tập, nghiên cứu | A1 | Education & School
+learn | /lɜːn/ | v | Học (để có kỹ năng) | A1 | Education & School
+read | /riːd/ | v | Đọc | A1 | Education & School
+write | /raɪt/ | v | Viết | A1 | Education & School
+mark | /mɑːk/ | n | Điểm số, điểm số học tập | A2 | Education & School
+grade | /ɡreɪd/ | n | Điểm số, điểm số học tập | A2 | Education & School
+shop | /ʃɒp/ | n/v | Cửa hàng / Đi mua sắm | A1 | Shopping
+store | /stɔːr/ | n | Cửa hàng, tiệm | A1 | Shopping
+shopping | /ˈʃɒpɪŋ/ | n | Việc mua sắm | A1 | Shopping
+buy | /baɪ/ | v | Mua | A1 | Shopping
+customer | /ˈkʌstəmər/ | n | Khách hàng | A2 | Shopping
+assistant | /əˈsɪstənt/ | n | Người trợ lý, nhân viên bán hàng | A2 | Shopping
+open | /ˈəʊpən/ | adj/v | Mở cửa | A1 | Shopping
+closed | /kləʊzd/ | adj | Đóng cửa | A1 | Shopping
+choose | /tʃuːz/ | v | Chọn lựa | A1 | Shopping
+bag | /bæɡ/ | n | Túi đựng đồ, giỏ xách | A1 | Shopping
+price | /praɪs/ | n | Giá cả | A1 | Shopping
+cost | /kɒst/ | v/n | Có giá là / Chi phí | A2 | Shopping
+spend | /spend/ | v | Tiêu (tiền), dành (thời gian) | A2 | Shopping
+pay | /peɪ/ | v | Thanh toán, trả tiền | A1 | Shopping
+cheap | /tʃiːp/ | adj | Rẻ | A1 | Shopping
+expensive | /ɪkˈpsensɪv/ | adj | Đắt đỏ | A1 | Shopping
+free | /friː/ | adj | Miễn phí | A1 | Shopping
+sale | /seɪl/ | n | Đợt giảm giá, sự bán hàng | A2 | Shopping
+discount | /ˈdɪskaʊnt/ | n | Sự giảm giá, chiết khấu | A2 | Shopping
+special offer | /ˌspeʃl ˈɒfər/ | n | Ưu đãi đặc biệt | A2 | Shopping
+receipt | /rɪˈsiːt/ | n | Hóa đơn, biên lai | A2 | Shopping
+bill | /bɪl/ | n | Hóa đơn (thanh toán tiền) | A1 | Shopping
+change | /tʃeɪndʒ/ | n | Tiền thừa, tiền lẻ | A2 | Shopping
+money | /ˈmʌni/ | n | Tiền | A1 | Shopping
+cash | /kæʃ/ | n | Tiền mặt | A2 | Shopping
+coin | /kɔɪn/ | n | Tiền xu | A2 | Shopping
+note | /nəʊt/ | n | Tờ tiền giấy | A2 | Shopping
+dollar | /ˈdɒlər/ | n | Đồng Đô-la | A1 | Shopping
+euro | /ˈjʊərəʊ/ | n | Đồng Âu kim (Euro) | A1 | Shopping
+pound | /paʊnd/ | n | Đồng Bảng Anh | A1 | Shopping
+credit card | /ˈkredɪt kɑːd/ | n | Thẻ tín dụng | A2 | Shopping
+wallet | /ˈwɒlɪt/ | n | Ví tiền (thường cho nam) | A2 | Shopping
+purse | /pɜːs/ | n | Ví tiền, bóp (thường cho nữ) | A2 | Shopping
+mall | /mɔːl/ | n | Trung tâm thương mại (Mỹ) | A2 | Shopping
+shopping centre | /ˈʃɒpɪŋ ˌsentər/ | n | Trung tâm thương mại (Anh) | A2 | Shopping
+supermarket | /ˈsuːpəmɑːkɪt/ | n | Siêu thị | A1 | Shopping
+market | /ˈmɑːkɪt/ | n | Chợ | A1 | Shopping
+bakery | /ˈbeɪkəri/ | n | Tiệm bánh mì, bánh ngọt | A2 | Shopping
+bookshop | /ˈbʊkʃɒp/ | n | Hiệu sách | A1 | Shopping
+clothes shop | /kləʊðz ʃɒp/ | n | Cửa hàng quần áo | A1 | Shopping
+department store | /dɪˈpɑːtmənt stɔːr/ | n | Cửa hàng bách hóa lớn | A2 | Shopping
+grocer | /ˈɡrəʊsər/ | n | Cửa hàng tạp hóa | A2 | Shopping
+butcher | /ˈbʊtʃər/ | n | Cửa hàng thịt / Người bán thịt | A2 | Shopping
+chemist | /ˈkemɪst/ | n | Hiệu thuốc tây | A2 | Shopping
+pet shop | /pet ʃɒp/ | n | Cửa hàng thú cưng | A2 | Shopping
+shoe shop | /ʃuː ʃɒp/ | n | Cửa hàng giày dép | A1 | Shopping
+sweet shop | /swiːt ʃɒp/ | n | Cửa hàng bánh kẹo | A2 | Shopping
+online shop | /ˌɒnˈlaɪn ʃɒp/ | n | Cửa hàng trực tuyến | A2 | Shopping
+hobby | /ˈhɒbi/ | n | Sở thích | A1 | Hobbies & Entertainment
+free time | /friː taɪm/ | n | Thời gian rảnh rỗi | A1 | Hobbies & Entertainment
+relax | /rɪˈlæks/ | v | Thư giãn | A1 | Hobbies & Entertainment
+enjoy | /ɪnˈdʒɔɪ/ | v | Tận hưởng, thích thú | A1 | Hobbies & Entertainment
+favorite | /ˈfeɪvərɪt/ | adj | Yêu thích | A1 | Hobbies & Entertainment
+like | /laɪk/ | v | Thích | A1 | Hobbies & Entertainment
+love | /lʌv/ | v | Yêu thích | A1 | Hobbies & Entertainment
+hate | /heɪt/ | v | Ghét | A1 | Hobbies & Entertainment
+fun | /fʌn/ | n/adj | Niềm vui, vui vẻ | A1 | Hobbies & Entertainment
+join | /dʒɔɪn/ | v | Tham gia vào | A2 | Hobbies & Entertainment
+club | /klʌb/ | n | Câu lạc bộ | A2 | Hobbies & Entertainment
+collection | /kəˈlekʃn/ | n | Bộ sưu tập | A2 | Hobbies & Entertainment
+collect | /kəˈlekt/ | v | Sưu tầm, thu thập | A2 | Hobbies & Entertainment
+sport | /spɔːt/ | n | Thể thao | A1 | Hobbies & Entertainment
+play | /pleɪ/ | v | Chơi | A1 | Hobbies & Entertainment
+game | /ɡeɪm/ | n | Trò chơi, trận đấu | A1 | Hobbies & Entertainment
+football | /ˈfʊtbɔːl/ | n | Bóng đá | A1 | Hobbies & Entertainment
+tennis | /ˈtenɪs/ | n | Quần vợt | A1 | Hobbies & Entertainment
+swim | /swɪm/ | v | Bơi lội | A1 | Hobbies & Entertainment
+run | /rʌn/ | v | Chạy bộ | A1 | Hobbies & Entertainment
+ball | /bɔːl/ | n | Quả bóng | A1 | Hobbies & Entertainment
+team | /tiːm/ | n | Đội, nhóm | A1 | Hobbies & Entertainment
+match | /mætʃ/ | n | Trận đấu | A2 | Hobbies & Entertainment
+player | /ˈpleɪər/ | n | Người chơi, cầu thủ | A2 | Hobbies & Entertainment
+win | /wɪn/ | v | Chiến thắng | A1 | Hobbies & Entertainment
+lose | /luːz/ | v | Thua cuộc | A2 | Hobbies & Entertainment
+coach | /kəʊtʃ/ | n | Huấn luyện viên | A2 | Hobbies & Entertainment
+competition | /ˌkɒmpəˈtɪʃn/ | n | Cuộc thi, giải đấu | A2 | Hobbies & Entertainment
+music | /ˈmjuːzɪk/ | n | Âm nhạc | A1 | Hobbies & Entertainment
+listen | /ˈlɪsn/ | v | Nghe | A1 | Hobbies & Entertainment
+song | /sɒŋ/ | n | Bài hát | A1 | Hobbies & Entertainment
+sing | /sɪŋ/ | v | Hát | A1 | Hobbies & Entertainment
+singer | /ˈsɪŋər/ | n | Ca sĩ | A1 | Hobbies & Entertainment
+guitar | /ɡɪˈtɑːr/ | n | Đàn ghi-ta | A1 | Hobbies & Entertainment
+piano | /piˈænəʊ/ | n | Đàn pi-a-no | A1 | Hobbies & Entertainment
+band | /bænd/ | n | Ban nhạc | A2 | Hobbies & Entertainment
+concert | /ˈkɒnsət/ | n | Buổi hòa nhạc | A2 | Hobbies & Entertainment
+instrument | /ˈɪnstrəmənt/ | n | Nhạc cụ | A2 | Hobbies & Entertainment
+pop | /pɒp/ | n | Nhạc Pop | A2 | Hobbies & Entertainment
+rock | /rɒk/ | n | Nhạc Rock | A2 | Hobbies & Entertainment
+movie | /ˈmuːvi/ | n | Bộ phim (Mỹ) | A1 | Hobbies & Entertainment
+film | /fɪlm/ | n | Bộ phim (Anh) | A1 | Hobbies & Entertainment
+watch | /wɒtʃ/ | v | Xem | A1 | Hobbies & Entertainment
+cinema | /ˈsɪnəmə/ | n | Rạp chiếu phim | A2 | Hobbies & Entertainment
+actor | /ˈæktər/ | n | Nam diễn viên | A2 | Hobbies & Entertainment
+actress | /ˈæktrəs/ | n | Nữ diễn viên | A2 | Hobbies & Entertainment
+star | /stɑːr/ | n | Ngôi sao điện ảnh / Nổi tiếng | A2 | Hobbies & Entertainment
+newspaper | /ˈnjuːzpeɪpər/ | n | Báo giấy | A2 | Hobbies & Entertainment
+magazine | /ˌmæɡəˈziːn/ | n | Tạp chí | A2 | Hobbies & Entertainment
+story | /ˈstɔːri/ | n | Câu chuyện | A1 | Hobbies & Entertainment
+writer | /ˈraɪtər/ | n | Nhà văn | A2 | Hobbies & Entertainment
+health | /helθ/ | n | Sức khỏe | A1 | Health & Lifestyle
+healthy | /ˈhelθi/ | adj | Khỏe mạnh, lành mạnh | A2 | Health & Lifestyle
+body | /ˈbɒdi/ | n | Cơ thể | A1 | Health & Lifestyle
+fit | /fɪt/ | adj | Cân đối, thon gọn | A2 | Health & Lifestyle
+unhealthy | /ʌnˈhelθi/ | adj | Không lành mạnh, đổ bệnh | A2 | Health & Lifestyle
+ill | /ɪl/ | adj | Bị ốm, bị bệnh | A1 | Health & Lifestyle
+sick | /sɪk/ | adj | Bị ốm, bị bệnh | A1 | Health & Lifestyle
+pain | /peɪn/ | n | Sự đau đớn, vết đau | A2 | Health & Lifestyle
+hurt | /hɜːt/ | v/adj | Làm đau, bị đau | A1 | Health & Lifestyle
+cold | /kəʊld/ | n | Cảm lạnh | A2 | Health & Lifestyle
+flu | /fluː/ | n | Cảm cúm | A2 | Health & Lifestyle
+fever | /ˈfiːvər/ | n | Sốt | A2 | Health & Lifestyle
+cough | /kɒf/ | n/v | Ho, tiếng ho | A2 | Health & Lifestyle
+headache | /ˈhedeɪk/ | n | Đau đầu | A2 | Health & Lifestyle
+toothache | /ˈtuːθeɪk/ | n | Đau răng | A2 | Health & Lifestyle
+stomach ache | /ˈstʌmək eɪk/ | n | Đau bụng, đau dạ dày | A2 | Health & Lifestyle
+earache | /ˈɪəreɪk/ | n | Đau tai | A2 | Health & Lifestyle
+sore throat | /ˌsɔː ˈθrəʊt/ | n | Đau họng | A2 | Health & Lifestyle
+allergy | /ˈælədʒi/ | n | Dị ứng | A2 | Health & Lifestyle
+disease | /dɪˈziːz/ | n | Bệnh tật | A2 | Health & Lifestyle
+injury | /ˈɪndʒəri/ | n | Chấn thương, vết thương | A2 | Health & Lifestyle
+bleed | /bliːd/ | v | Chảy máu | A2 | Health & Lifestyle
+burn | /bɜːn/ | v/n | Vết bỏng / Bị bỏng | A2 | Health & Lifestyle
+dizzy | /ˈdɪzi/ | adj | Chóng mặt | A2 | Health & Lifestyle
+hospital | /ˈhɒspɪtl/ | n | Bệnh viện | A1 | Health & Lifestyle
+pharmacy | /ˈfɑːməsi/ | n | Hiệu thuốc (Anh) | A2 | Health & Lifestyle
+drugstore | /ˈdrʌɡstɔːr/ | n | Hiệu thuốc (Mỹ) | A2 | Health & Lifestyle
+medicine | /ˈmedsn/ | n | Thuốc | A2 | Health & Lifestyle
+pill | /pɪl/ | n | Viên thuốc nhộng/tròn | A2 | Health & Lifestyle
+tablet | /ˈtæblət/ | n | Viên thuốc nén | A2 | Health & Lifestyle
+cream | /kriːm/ | n | Kem bôi da | A2 | Health & Lifestyle
+bandage | /ˈbændɪdʒ/ | n | Băng gạc | A2 | Health & Lifestyle
+plaster | /ˈplɑːstər/ | n | Băng dán cá nhân | A2 | Health & Lifestyle
+appointment | /əˈpɔɪntmənt/ | n | Cuộc hẹn (khám bệnh) | A2 | Health & Lifestyle
+prescription | /prɪˈskrɪpʃn/ | n | Đơn thuốc | A2 | Health & Lifestyle
+exercise | /ˈeksəsaɪz/ | n/v | Tập thể dục / Bài tập | A2 | Health & Lifestyle
+gym | /dʒɪm/ | n | Phòng tập thể hình | A1 | Health & Lifestyle
+diet | /ˈdaɪət/ | n | Chế độ ăn uống | A2 | Health & Lifestyle
+fruit | /fruːt/ | n | Trái cây | A1 | Health & Lifestyle
+vegetable | /ˈvedʒtəbl/ | n | Rau củ | A1 | Health & Lifestyle
+vitamin | /ˈvɪtəmɪn/ | n | Vitamin | A2 | Health & Lifestyle
+sleep | /sliːp/ | v/n | Ngủ / Giấc ngủ | A1 | Health & Lifestyle
+rest | /rest/ | v/n | Nghỉ ngơi | A1 | Health & Lifestyle
+fresh | /freʃ/ | adj | Tươi, trong lành | A2 | Health & Lifestyle
+walk | /wɔːk/ | v/n | Đi bộ | A1 | Health & Lifestyle
+water | /ˈwɔːtər/ | n | Nước | A1 | Health & Lifestyle
+lifestyle | /ˈlaɪfstaɪl/ | n | Lối sống | A2 | Health & Lifestyle
+nature | /ˈneɪtʃər/ | n | Tự nhiên, thiên nhiên | A2 | The Natural World
+environment | /ɪnˈvaɪrənmənt/ | n | Môi trường | A2 | The Natural World
+world | /wɜːld/ | n | Thế giới | A1 | The Natural World
+earth | /ɜːθ/ | n | Trái Đất | A2 | The Natural World
+air | /eər/ | n | Không khí | A1 | The Natural World
+plant | /plɑːnt/ | n | Thực vật, cây cối | A1 | The Natural World
+tree | /triː/ | n | Cây lớn | A1 | The Natural World
+flower | /ˈflaʊər/ | n | Bông hoa | A1 | The Natural World
+leaf | /liːf/ | n | Lá cây | A2 | The Natural World
+grass | /ɡrɑːs/ | n | Bãi cỏ, cỏ | A2 | The Natural World
+landscape | /ˈlændskeɪp/ | n | Phong cảnh, cảnh quan | A2 | The Natural World
+mountain | /ˈmauntən/ | n | Ngọn núi | A2 | The Natural World
+hill | /hɪl/ | n | Đồi, ngọn đồi | A2 | The Natural World
+valley | /ˈvæli/ | n | Thung lũng | A2 | The Natural World
+river | /ˈrɪvər/ | n | Con sông | A1 | The Natural World
+lake | /leɪk/ | n | Hồ nước | A1 | The Natural World
+sea | /siː/ | n | Biển | A1 | The Natural World
+ocean | /ˈəʊʃn/ | n | Đại dương | A2 | The Natural World
+beach | /biːtʃ/ | n | Bãi biển | A1 | The Natural World
+coast | /kəʊst/ | n | Bờ biển, vùng duyên hải | A2 | The Natural World
+island | /ˈaɪlənd/ | n | Hòn đảo | A2 | The Natural World
+forest | /ˈfɒrɪst/ | n | Khu rừng | A2 | The Natural World
+wood | /wʊd/ | n | Rừng cây nhỏ / Gỗ | A2 | The Natural World
+desert | /ˈdezət/ | n | Sa mạc | A2 | The Natural World
+field | /fiːld/ | n | Cánh đồng | A1 | The Natural World
+waterfall | /ˈwɔːtəfɔːl/ | n | Thác nước | A2 | The Natural World
+sky | /skaɪ/ | n | Bầu trời | A1 | The Natural World
+sun | /sʌn/ | n | Mặt trời | A1 | The Natural World
+moon | /muːn/ | n | Mặt trăng | A1 | The Natural World
+star | /stɑːr/ | n | Ngôi sao | A1 | The Natural World
+animal | /ˈænɪml/ | n | Động vật, thú nuôi | A1 | The Natural World
+wildlife | /ˈwaɪldlaɪf/ | n | Động vật hoang dã | A2 | The Natural World
+bird | /bɜːd/ | n | Con chim | A1 | The Natural World
+fish | /fɪʃ/ | n | Con cá | A1 | The Natural World
+insect | /ˈɪnsekt/ | n | Côn trùng | A2 | The Natural World
+wild | /waɪld/ | adj | Hoang dã | A2 | The Natural World
+lion | /ˈlaɪən/ | n | Sư tử | A1 | The Natural World
+tiger | /ˈtaɪɡər/ | n | Con hổ | A1 | The Natural World
+elephant | /ˈelɪfənt/ | n | Con voi | A1 | The Natural World
+monkey | /ˈmʌŋki/ | n | Con khỉ | A1 | The Natural World
+bear | /beər/ | n | Con gấu | A2 | The Natural World
+snake | /sneɪk/ | n | Con rắn | A1 | The Natural World
+crocodile | /ˈcrokədaɪl/ | n | Con cá sấu | A2 | The Natural World
+whale | /weɪl/ | n | Cá voi | A2 | The Natural World
+shark | /ʃɑːk/ | n | Cá mập | A2 | The Natural World
+dolphin | /ˈdɒlfɪn/ | n | Cá heo | A2 | The Natural World
+frog | /frɒɡ/ | n | Con ếch | A2 | The Natural World
+fox | /fɒks/ | n | Con cáo | A2 | The Natural World
