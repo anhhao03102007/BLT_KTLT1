@@ -6,12 +6,12 @@ typedef struct Quiz {
     char Question[50];
     char Answer[200];
     char UserAnswer[50];
-    char Mode[20];
+    char Status[20];
     struct Quiz* next;
 } Quiz;  
 
-Quiz* createQuizNode(int ID, char* question, char* answer , char* userAnswer,char *Mode);
-void addQuizNode(Quiz** head, int ID ,char* question, char* answer , char* userAnswer,char *Mode);
+Quiz* createQuizNode(int ID, char* question, char* answer , char* userAnswer,char *status);
+void addQuizNode(Quiz** head, int ID ,char* question, char* answer , char* userAnswer,char *status);
 void FreeQuizList(Quiz* head);
 void playReviewGame();
 #endif

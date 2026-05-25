@@ -17,7 +17,7 @@
 #define BLUE        "\033[1;34m"
 #define BOLD        "\033[1m"
 
-Quiz* createQuizNode(int ID, char* question, char* answer, char* userAnswer, char* Mode) {
+Quiz* createQuizNode(int ID, char* question, char* answer, char* userAnswer, char* status) {
     Quiz* newNode = (Quiz*)malloc(sizeof(Quiz));
     if (newNode != NULL) {
         newNode->ID = ID;
@@ -27,15 +27,15 @@ Quiz* createQuizNode(int ID, char* question, char* answer, char* userAnswer, cha
         newNode->Answer[sizeof(newNode->Answer) - 1] = '\0'; // Ensure null-termination
         strncpy(newNode->UserAnswer, userAnswer, sizeof(newNode->UserAnswer) - 1);
         newNode->UserAnswer[sizeof(newNode->UserAnswer) - 1] = '\0'; // Ensure null-termination
-        strncpy(newNode->Mode, Mode, sizeof(newNode->Mode) - 1);
-        newNode->Mode[sizeof(newNode->Mode) - 1] = '\0'; // Ensure null-termination
+        strncpy(newNode->Status, status, sizeof(newNode->Status) - 1);
+        newNode->Status[sizeof(newNode->Status) - 1] = '\0'; // Ensure null-termination
         newNode->next = NULL;
     }
     return newNode;
 }
 
-void addQuizNode(Quiz** head, int ID, char* question, char* answer, char* userAnswer, char* Mode) {
-    Quiz* newNode = createQuizNode(ID, question, answer, userAnswer, Mode);
+void addQuizNode(Quiz** head, int ID, char* question, char* answer, char* userAnswer, char* status) {
+    Quiz* newNode = createQuizNode(ID, question, answer, userAnswer, status);
     if (newNode == NULL) {
         printf("Loi: Khong the tao node moi.\n");
         return;
