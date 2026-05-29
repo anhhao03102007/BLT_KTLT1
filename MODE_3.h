@@ -13,5 +13,5 @@ typedef struct Quiz {
 Quiz* createQuizNode(int ID, char* question, char* answer , char* userAnswer,char *status);
 void addQuizNode(Quiz** head, int ID ,char* question, char* answer , char* userAnswer,char *status);
 void FreeQuizList(Quiz* head);
-void playReviewGame();
+void playGame();
 #endif

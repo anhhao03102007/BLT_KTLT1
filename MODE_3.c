@@ -98,7 +98,50 @@ void showExportLoading() {
     printf(GREEN "]" RESET " 100%%\n");
     Sleep(300);
 }
-void playReviewGame() {
+
+void ReviewAnswers(Quiz* head,int score, int numWords) {
+    system("cls");
+
+        FILE *f = fopen("ReviewHistory.txt", "w");
+        Quiz* tempQ = head;
+        int qNum = 1;
+        if (f == NULL) {
+            printf(RED "  Error: Could not create file!\n" RESET);
+        } else {
+            showExportLoading();
+            // Ghi tiêu đề và điểm số
+            fprintf(f, "====================================================\n");
+            fprintf(f, "|           VOCABULARY GAME REVIEW HISTORY         |\n");
+            fprintf(f, "====================================================\n");
+            fprintf(f, "  Total Score: %d / %d\n", score, numWords);
+            fprintf(f, "  Status: %s\n", (score >= numWords * 0.5) ? "PASSED" : "FAILED");
+            fprintf(f, "====================================================\n\n");
+
+            while (tempQ != NULL) {
+                int correct = strcmp(tempQ->UserAnswer, tempQ->Answer) == 0;
+                char hdr[256], buf[256];
+
+                fprintBorderDouble(f, 52);
+                sprintf(hdr, "  Question #%d  %s", qNum, correct ? "[CORRECT]" : "[INCORRECT]");
+                fprintf(f, "| %-50s |\n", hdr);
+                fprintBorder(f, 52);
+
+                fprintf(f, "|   Question : %-37s |\n", tempQ->Question);
+                fprintf(f, "|   Yours    : %-37s |\n", tempQ->UserAnswer);
+                fprintf(f, "|   Correct  : %-37s |\n", tempQ->Answer);
+
+                fprintBorderDouble(f, 52);
+                fprintf(f, "\n");
+
+                tempQ = tempQ->next;
+                qNum++;
+            }
+            fclose(f);
+            printf(GREEN "  Successfully exported to 'ReviewHistory.txt'!\n" RESET);
+        }
+    } 
+
+void playGame() {
     VOCAL* head = NULL;
     Quiz* quizHead = NULL;
     LoadFile(&head);
@@ -195,15 +238,14 @@ void playReviewGame() {
         scanf("%s", userAnswer);
         toLowerCase(userAnswer);
 
-        // Ket qua
-        int Result;
+        
         if (strcmp(userAnswer, target->Word) == 0) {
             printf(GREEN);
             printBorderDouble(42);
             printBoxLine("  >>> Correct! Well done! <<<          ", 42);
             printBorderDouble(42);
             printf(RESET);
-            Result = 1;
+            addQuizNode(&quizHead, i, target->Meaning, target->Word, userAnswer, "true");
             score++;
         } else {
             char wrongMsg[60];
@@ -214,10 +256,8 @@ void playReviewGame() {
             printBoxLine(wrongMsg, 42);
             printBorderDouble(42);
             printf(RESET);
-            Result = 0;
+            addQuizNode(&quizHead, i, target->Meaning, target->Word, userAnswer,"false");
         }
-
-        addQuizNode(&quizHead, i, target->Meaning, target->Word, userAnswer, Result ? "true" : "false");
 
         // HIỆU ỨNG TẠM DỪNG: Cho người dùng xem kết quả Đúng/Sai
         printf(YELLOW "\n  Press any key to continue..." RESET);
@@ -250,91 +290,13 @@ void playReviewGame() {
     printf(YELLOW "  Would you like to review your answers? (Y/N): " RESET);
     char reviewChoice;
     scanf(" %c", &reviewChoice);
-/* Hien thi review chi tiet tung cau hoi co mau tren terminal
     if (reviewChoice == 'Y' || reviewChoice == 'y') {
-        system("cls"); // Xóa màn hình để bắt đầu Review
-        printf(CYAN "=================== REVIEW ANSWERS ===================\n\n" RESET);
-        Quiz* tempQ = quizHead;
-        int qNum = 1;
-        while (tempQ != NULL) {
-            int correct = strcmp(tempQ->UserAnswer, tempQ->Answer) == 0;
-            const char* resColor = correct ? GREEN : RED;
-            const char* resText  = correct ? "[TRUE]" : "[FALSE]";
-
-            char hdr[256], buf[256];
-
-            printf(resColor);
-            printBorderDouble(52);
-            sprintf(hdr, "  Question #%d  %s", qNum, resText);
-            printf("| %-50s |\n", hdr);
-            printBorder(52);
-            printf(RESET);
-
-            sprintf(buf, "  Question : %s", tempQ->Question);
-            printf("| %-50s |\n", buf);
-            sprintf(buf, "  Yours : %s", tempQ->UserAnswer);
-            printf("%s| %-50s |\n" RESET, correct ? GREEN : RED, buf);
-            sprintf(buf, "  Answer: %s", tempQ->Answer);
-            printf("| %-50s |\n", buf);
-
-            printf(resColor);
-            printBorderDouble(52);
-            printf(RESET "\n");
-
-            tempQ = tempQ->next;
-            qNum++;
-        }
-        printf(YELLOW "  Press any key to return to menu..." RESET);
-        _getch();
+        ReviewAnswers(quizHead, score, numWords);
     } else {
         printf(CYAN "\n  Thank you for playing! See you next time!\n\n" RESET);
+        printf(YELLOW "  Press any key to exit..." RESET);
         _getch();
     }
-*/
-    printf(YELLOW "\n  Would you like to export your results to 'ReviewHistory.txt'? (Y/N): " RESET);
-    char exportChoice;
-    scanf(" %c", &exportChoice);
-    if (exportChoice == 'Y' || exportChoice == 'y') {
-
-        FILE *f = fopen("ReviewHistory.txt", "w");
-        Quiz* tempQ = quizHead;
-        int qNum = 1;
-        if (f == NULL) {
-            printf(RED "  Error: Could not create file!\n" RESET);
-        } else {
-            showExportLoading();
-            // Ghi tiêu đề và điểm số
-            fprintf(f, "====================================================\n");
-            fprintf(f, "|           VOCABULARY GAME REVIEW HISTORY         |\n");
-            fprintf(f, "====================================================\n");
-            fprintf(f, "  Total Score: %d / %d\n", score, numWords);
-            fprintf(f, "  Status: %s\n", (score >= numWords * 0.5) ? "PASSED" : "FAILED");
-            fprintf(f, "====================================================\n\n");
-
-            while (tempQ != NULL) {
-                int correct = strcmp(tempQ->UserAnswer, tempQ->Answer) == 0;
-                char hdr[256], buf[256];
-
-                fprintBorderDouble(f, 52);
-                sprintf(hdr, "  Question #%d  %s", qNum, correct ? "[CORRECT]" : "[INCORRECT]");
-                fprintf(f, "| %-50s |\n", hdr);
-                fprintBorder(f, 52);
-
-                fprintf(f, "|   Question : %-37s |\n", tempQ->Question);
-                fprintf(f, "|   Yours    : %-37s |\n", tempQ->UserAnswer);
-                fprintf(f, "|   Correct  : %-37s |\n", tempQ->Answer);
-
-                fprintBorderDouble(f, 52);
-                fprintf(f, "\n");
-
-                tempQ = tempQ->next;
-                qNum++;
-            }
-            fclose(f);
-            printf(GREEN "  Successfully exported to 'ReviewHistory.txt'!\n" RESET);
-        }
-    }
-
     FreeQuizList(quizHead);
     FreeVOCALList(head);
 }
