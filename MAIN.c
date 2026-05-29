@@ -4,8 +4,8 @@
 #include <windows.h>
 #include <string.h>
 #include <time.h>
-#include <MODE_3.h>
-#include <FUNCTION.h>
+#include "MODE_3.h"
+#include "FUNCTION.h"
 
 #define RESET   "\033[0m"
 #define BOLD    "\033[1m"
@@ -65,7 +65,8 @@ void loadingAnimation() {
     system("cls");
 }
 int main(){
-   loadingAnimation();
-   playGame();
-   return 0;
+    loadingAnimation();
+    fflush(stdin);
+    playGame();
+    return 0;
 }

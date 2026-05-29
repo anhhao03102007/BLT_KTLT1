@@ -8,7 +8,7 @@ typedef struct VOCAL{
     char Meaning[100];
     char Level[20];
     char Topic[20];
-    VOCAL* next;
+    struct VOCAL* next;
 } VOCAL;
 
 void toLowerCase(char* str);

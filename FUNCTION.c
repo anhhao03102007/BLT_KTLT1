@@ -13,7 +13,7 @@ void toLowerCase(char* str) {
 VOCAL* createNode(char* word, char* pronoun, char* type, char* meaning, char* level, char* topic) {
     VOCAL* newNode = (VOCAL*)malloc(sizeof(VOCAL));
     if (newNode == NULL) {
-        printf(stderr, "Memory allocation failed\n");
+        printf("Memory allocation failed\n");
         exit(1);
     }
     strncpy(newNode->Word, word, sizeof(newNode->Word) - 1);
@@ -55,9 +55,9 @@ void FreeVOCALList(VOCAL* head) {
 }
 
 void LoadFile(VOCAL** head) {
-    FILE* file = fopen("vocal_data.txt", "r");
+    FILE* file = fopen("Vocabulary.txt", "r");
     if (file == NULL) {
-        printf(stderr, "Could not open file %s\n", "vocal_data.txt");
+        printf("Could not open file %s\n", "Vocabulary.txt");
         exit(1);
     }
     char line[1000];

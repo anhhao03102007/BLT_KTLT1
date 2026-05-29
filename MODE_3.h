@@ -13,5 +13,12 @@ typedef struct Quiz {
 Quiz* createQuizNode(int ID, char* question, char* answer , char* userAnswer,char *status);
 void addQuizNode(Quiz** head, int ID ,char* question, char* answer , char* userAnswer,char *status);
 void FreeQuizList(Quiz* head);
+void printBorder(int width);
+void printBorderDouble(int width);
+void printBoxLine(const char* content, int width);
+void fprintBorderDouble(FILE* f, int width);
+void fprintBorder(FILE* f, int width);
+void showExportLoading();
+void ReviewAnswers(Quiz* head,int score, int numWords);
 void playGame();
 #endif
