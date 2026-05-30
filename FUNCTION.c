@@ -4,11 +4,13 @@
 #include <ctype.h>
 #include "FUNCTION.h"
 
+
 void toLowerCase(char* str) {
     for (int i = 0; str[i]; i++) {
         str[i] = tolower(str[i]);
     }
 }
+
 
 VOCAL* createNode(char* word, char* pronoun, char* type, char* meaning, char* level, char* topic) {
     VOCAL* newNode = (VOCAL*)malloc(sizeof(VOCAL));
@@ -32,6 +34,7 @@ VOCAL* createNode(char* word, char* pronoun, char* type, char* meaning, char* le
     return newNode;
 }
 
+
 void AddNode(VOCAL** head, char* name, char* pronoun, char* type, char* meaning, char* level, char* topic) {
     VOCAL* newNode = createNode(name, pronoun, type, meaning, level, topic);
     if (*head == NULL) {
@@ -45,6 +48,7 @@ void AddNode(VOCAL** head, char* name, char* pronoun, char* type, char* meaning,
     }
 }
 
+
 void FreeVOCALList(VOCAL* head) {
     VOCAL* temp;
     while (head != NULL) {
@@ -53,6 +57,7 @@ void FreeVOCALList(VOCAL* head) {
         free(temp);
     }
 }
+
 
 void LoadFile(VOCAL** head) {
     FILE* file = fopen("Vocabulary.txt", "r");
