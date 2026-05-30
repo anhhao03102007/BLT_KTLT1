@@ -141,6 +141,18 @@ void ReviewAnswers(Quiz* head,int score, int numWords) {
         }
     } 
 
+void shuffleVocab(VOCAL** array, int n) {
+    if (n <= 1) return;
+    srand(time(NULL));
+    for (int i = n - 1; i > 0; i--) {
+        int j = rand() % (i + 1);
+        // Hoán đổi vị trí các con trỏ
+        VOCAL* temp = array[i];
+        array[i] = array[j];
+        array[j] = temp;
+    }
+}
+
 void playGame() {
     VOCAL* head = NULL;
     Quiz* quizHead = NULL;
@@ -180,7 +192,11 @@ void playGame() {
 
     printf(BOLD ">>> " RESET);
     do {
-        scanf("%d", &numWords);
+        // Xóa bộ đệm nếu người dùng nhập chữ
+        if (scanf("%d", &numWords) != 1) {
+            while (getchar() != '\n'); 
+            numWords = -1; // Ép vòng lặp chạy lại
+        }
         if (numWords <= 0 || numWords > 50)
             printf(RED "  Please enter a number between 1 and 50: " RESET);
     } while (numWords <= 0 || numWords > 50);
@@ -190,6 +206,7 @@ void playGame() {
     VOCAL* temp = head;
     while (temp != NULL) { totalWords++; temp = temp->next; }
 
+    // Giới hạn số câu hỏi nếu file ít từ hơn yêu cầu
     if (numWords > totalWords) {
         numWords = totalWords;
         printf(YELLOW "\n  Note: Only %d words available. Reviewing all!\n" RESET, totalWords);
@@ -197,18 +214,29 @@ void playGame() {
         _getch();
     }
 
+    // ==========================================
+    // CHUẨN BỊ MẢNG VÀ XÁO TRỘN TỪ VỰNG
+    // ==========================================
+    VOCAL** vocabArray = (VOCAL**)malloc(totalWords * sizeof(VOCAL*));
+    temp = head;
+    for (int i = 0; i < totalWords; i++) {
+        vocabArray[i] = temp;
+        temp = temp->next;
+    }
+
+    shuffleVocab(vocabArray, totalWords); 
+
     int score = 0;
     char userAnswer[50];
-    srand(time(NULL));
 
     // ==========================================
-    // VONG LAP CAU HOI
+    // VÒNG LẶP CÂU HỎI CHÍNH
     // ==========================================
-    for (int i = 1; i <= numWords; i++) {
-        system("cls"); // XÓA MÀN HÌNH trước mỗi câu hỏi mới
+    for (int i = 0; i < numWords; i++) {
+        system("cls"); 
 
         char questionHeader[60];
-        sprintf(questionHeader, "  Question %d / %d", i, numWords);
+        sprintf(questionHeader, "  Question %d / %d", i + 1, numWords);
 
         printf(BLUE);
         printBorderDouble(50);
@@ -216,36 +244,23 @@ void playGame() {
         printBorder(50);
         printf(RESET);
 
-        // Boc ngau nhien & Kiem tra trung lap
-        int randomIndex = rand() % totalWords;
-        VOCAL* target = head;
-        for (int j = 0; j < randomIndex; j++) target = target->next;
-
-        int isDuplicate = 0;
-        Quiz* tempQuiz = quizHead;
-        while (tempQuiz != NULL) {
-            if (strcmp(tempQuiz->Answer, target->Word) == 0) { isDuplicate = 1; break; }
-            tempQuiz = tempQuiz->next;
-        }
-        if (isDuplicate) { i--; continue; }
+        VOCAL* target = vocabArray[i]; 
 
         // Hien thi cau hoi
         printf(BLUE "| " RESET BOLD "  Meaning : " RESET "%s\n", target->Meaning);
         printf(BLUE); printBorder(50); printf(RESET);
 
         printf(BOLD "  Your answer: " RESET);
-        fflush(stdin);
-        scanf("%s", userAnswer);
+        scanf(" %49s", userAnswer); 
         toLowerCase(userAnswer);
 
-        
         if (strcmp(userAnswer, target->Word) == 0) {
             printf(GREEN);
             printBorderDouble(42);
             printBoxLine("  >>> Correct! Well done! <<<          ", 42);
             printBorderDouble(42);
             printf(RESET);
-            addQuizNode(&quizHead, i, target->Meaning, target->Word, userAnswer, "true");
+            addQuizNode(&quizHead, i + 1, target->Meaning, target->Word, userAnswer, "true");
             score++;
         } else {
             char wrongMsg[60];
@@ -256,15 +271,15 @@ void playGame() {
             printBoxLine(wrongMsg, 42);
             printBorderDouble(42);
             printf(RESET);
-            addQuizNode(&quizHead, i, target->Meaning, target->Word, userAnswer,"false");
+            addQuizNode(&quizHead, i + 1, target->Meaning, target->Word, userAnswer, "false");
         }
 
-        // HIỆU ỨNG TẠM DỪNG: Cho người dùng xem kết quả Đúng/Sai
         printf(YELLOW "\n  Press any key to continue..." RESET);
         _getch(); 
     }
 
-    // TONG KET (Xóa sạch màn hình để show bảng điểm)
+    // ==========================================
+    // TỔNG KẾT VÀ GIẢI PHÓNG BỘ NHỚ
     // ==========================================
     system("cls");
     const char* verdict;
@@ -297,6 +312,8 @@ void playGame() {
         printf(YELLOW "  Press any key to exit..." RESET);
         _getch();
     }
+
+    free(vocabArray);
     FreeQuizList(quizHead);
     FreeVOCALList(head);
 }

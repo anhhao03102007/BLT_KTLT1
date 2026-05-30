@@ -66,7 +66,7 @@ void loadingAnimation() {
 }
 int main(){
     loadingAnimation();
-    fflush(stdin);
+    while (getchar() != '\n' && getchar() != EOF);
     playGame();
     return 0;
 }
